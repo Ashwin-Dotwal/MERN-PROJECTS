@@ -1,17 +1,10 @@
+import React from 'react'
 
-import './App.css'
-
-import Home1 from './assets/Home1'
-
-function App() {
- 
-
+const App = () => {
   return (
-      <div>
-
-      <Home1/>
-      </div>
+    <div>App</div>
   )
 }
 
 export default App
+
